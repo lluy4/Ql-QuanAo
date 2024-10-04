@@ -112,28 +112,28 @@ INSERT INTO KHACHHANG VALUES
 
 
 INSERT INTO NHAXUATBAN VALUES 
-(N'NXB Kim Đồng',N'55 Quang Trung, Hai Bà Trưng, Hà Nội','02439434730'),
-(N'NXB Trẻ',N'161B Lý Chính Thắng, Phường 7, Quận 3, Thành phố Hồ Chí Minh.','(028) 39316289 - 39316211 - 39317849'),
-(N'NHÀ SÁCH ĐÔNG A',N'18 Nguyễn Trường Tộ, phường Trúc Bạch, quận Ba Đình, thành phố Hà Nội ','0243. 7161518  - 0243. 7163409'),
-(N'NXB Hội Nhà văn',N'Số 65 Nguyễn Du, Hà Nội','024.38222135'),
-(N'Nhà xuất bản giáo dục Việt Nam',N'81 Trần Hưng Đạo, Hà Nội','024.38220801'),
-(N'Nhà xuất bản Tổng hợp thành phố Hồ Chí Minh',N' 62 Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, TP.HCM',' (028) 38 225 340 – 38 296 764'),
-(N'Báo Sinh Viên VN - Hoa Học Trò',N'502 Lê Văn Sỹ, P. 14, Q. 3, Tp. Hồ Chí Minh (TPHCM)','(028) 39312190.'),
-(N'NXB Văn học',N'18 Nguyễn Trường Tộ, phường Trúc Bạch, quận Ba Đình, thành phố Hà Nội ','0243. 7161518  - 0243. 7163409'),
-(N'NXB Lao Động',N'',''),
-(N'NXB Phụ Nữ Việt Nam',N'',''),
-(N'NXB Công Thương',N'',''),
-(N'NXB Thế Giới',N'','')
+(N'Evisu',N'55 Quang Trung, Hai Bà Trưng, Hà Nội','02439434730'),
+(N'Adidi',N'161B Lý Chính Thắng, Phường 7, Quận 3, Thành phố Hồ Chí Minh.','(028) 39316289 - 39316211 - 39317849'),
+(N'Puma',N'18 Nguyễn Trường Tộ, phường Trúc Bạch, quận Ba Đình, thành phố Hà Nội ','0243. 7161518  - 0243. 7163409'),
+(N'Gucci',N'Số 65 Nguyễn Du, Hà Nội','024.38222135'),
+(N'Yame',N'81 Trần Hưng Đạo, Hà Nội','024.38220801'),
+(N'Mea',N' 62 Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, TP.HCM',' (028) 38 225 340 – 38 296 764'),
+(N'TopC',N'502 Lê Văn Sỹ, P. 14, Q. 3, Tp. Hồ Chí Minh (TPHCM)','(028) 39312190.'),
+(N'LowG',N'18 Nguyễn Trường Tộ, phường Trúc Bạch, quận Ba Đình, thành phố Hà Nội ','0243. 7161518  - 0243. 7163409'),
+(N'AgLENIA',N'',''),
+(N'MLB',N'',''),
+(N'D&D',N'',''),
+(N'OMG&F',N'','')
 
 INSERT INTO LOAI VALUES 
-(N'Evisu'),
-(N'Adidi'),
-(N'Puma'),
-(N'Gucci'),
-(N'Yame'),
-(N'Mea'),
-(N'TopC'),
-(N'LowG')
+(N'Quần dài'),
+(N'Quần ngắn'),
+(N'Aó thun'),
+(N'Aó sơ mi'),
+(N'Quần kaki'),
+(N'Quần jean'),
+(N'Aó polo'),
+(N'Aó hoodi')
 
 INSERT INTO TACGIA VALUES
 (N'Jack Thorne',N'', N'',''),
@@ -148,16 +148,14 @@ INSERT INTO TACGIA VALUES
 (N'Carlo Collodi',N'', N'',''),
 (N'Nhiều Tác Giả',N'', N'',''),
 (N'Paulo Coelho',N'', N'',''),
-(N'Nguyên Phong',N'Việt Nam', N'Tác giả Nguyên Phong (Vũ Văn Du) du học ở Mỹ từ năm 1968, tốt nghiệp cao học Sinh vật học, Điện toán. Ông từng là Kỹ sư trưởng, CIO của Tập đoàn Boeing của Mỹ, Viện trưởng Viện Công nghệ Sinh học Đại học Carnegie Mellon. Ông được mọi người biết tới là Giáo sư John Vu – Nhà khoa học uy tín về công nghệ thông tin. , CMMI và từng giảng dạy ở nhiều trường đại học trên thế giới.
+(N'Nguyên Phong',N'', N'',''),
 
-Nguyên Phong là bút danh của bộ sách văn hóa tâm linh được dịch, viết phóng tác từ trải nghiệm, tiềm thức và quá trình nghiên cứu, khám phá các giá trị tinh thần Đông phương. Ông đã viết phóng tác tác phẩm bất hủ Hành trình về Phương Đông năm 24 tuổi (1974). Các tác phẩm khác của Nguyên Phong được bạn đọc nhiều thế hệ yêu thích: Ngọc sáng trong hoa sen, Bên rặng tuyết sơn, Hoa sen trên tuyết, Hoa trôi trên sóng nước, Huyền thuật và các đạo sĩ Tây Tạng, Trở về từ xứ tuyết, Trở về từ cõi sáng, Minh triết trong đời sống, Đường mây qua xứ tuyết, Dấu chân trên cát, Đường mây trong cõi mộng, Đường mây trên đất hoa… và bộ sách dành cho sinh viên, thầy cô: Khởi hành, Kết nối, Bước ra thế giới, Kiến tạo thế hệ Việt Nam ưu việt, GS John Vu và lời khuyên dành cho thầy cô, GS John Vu và lời khuyên dành cho các bậc cha mẹ.',''),
+
 (N'Lưu Hồng Hà',N'Việt Nam', N'',''),
 (N'Shuichi Aso',N'Nhật Bản', N'',''),
 (N'Osamu Nishi',N'Nhật Bản', N'',''),
 (N'Brian L Weiss',N'', N'Brian L. Weiss, M.D
 
-Sau khi tốt nghiệp hạng ưu, trường đại học Columbia và nhận văn bằng y khoa tại trường y khoa của đại học Yale, Brian L. Weiss, TS. Y khoa (MD) tham dự chương trình nội trú tại Trung tâm Y khoa Bellevue, đại học New York, và thăng bậc thành bác sỹ nội trú trưởng, Khoa tâm thần, trường y khoa của đại học Yale. Hiện TS. Weiss là chủ tịch khoa tâm thần tại Trung tâm Y khoa Núi Sinai, vùng duyên hải Miami bang Florida và là trợ lý giáo sư lâm sàng khoa tâm thần, trường y của đại học Miami. Ông chuyên nghiên cứu và trị liệu tình trạng lo lắng và trầm cảm, rối loạn giấc ngủ, rối loạn lạm dụng chất gây nghiện, bệnh Alzheimer và hóa học não.',''),
-(N'Dale Carnegie',N'Mỹ', N'Dale Breckenridge Carnegie (24 tháng 11 năm 1888 – 1 tháng 11 năm 1955) là một nhà văn và nhà thuyết trình Mỹ và là người phát triển các lớp tự giáo dục, nghệ thuật bán hàng, huấn luyện đoàn thể, nói trước công chúng và các kỹ năng giao tiếp giữa mọi người. Ra đời trong cảnh nghèo đói tại một trang trại ở Missouri, ông là tác giả cuốn Đắc Nhân Tâm, được xuất bản lần đầu năm 1936, một cuốn sách thuộc hàng bán chạy nhất và được biết đến nhiều nhất cho đến tận ngày nay. Ông cũng viết một cuốn tiểu sử Abraham Lincoln, với tựa đề Lincoln con người chưa biết, và nhiều cuốn sách khác.
 
 Carnegie là một trong những người đầu tiên đề xuất cái ngày nay được gọi là đảm đương trách nhiệm, dù nó chỉ được đề cập tỉ mỉ trong tác phẩm viết của ông. Một trong những ý tưởng chủ chốt trong những cuốn sách của ông là có thể thay đổi thái độ của người khác khi thay đổi sự đối xử của ta với họ.',''),
 (N'Albert Rutherford',N'', N'',''),
@@ -318,52 +316,7 @@ INSERT INTO SACH VALUES (N'365 Truyện Kể Hàng Đêm - Mùa Đông',36000  ,
 
 
 
-INSERT INTO SACH VALUES(N'BỘ SÁCH GIÁO KHOA LỚP 7- SÁCH BÀI HỌC (BỘ 12 CUỐN)', 134000,N'Sách giáo khoa là vật dụng quan trọng, không thể thiếu đối với quá trình học tập của học sinh. Sách giáo khoa là loại sách cung cấp kiến thức, được biên soạn với mục đích dạy và học tại trường học. 
- 
-Bộ Sách Giáo Khoa Lớp 7 (Bộ 12 Cuốn) tập hợp đầy đủ các môn học cần thiết phục vụ cho học sinh lớp 7 được biên soạn theo chương trình chuẩn của Bộ Giáo dục và Đào tạo. Bộ sách cung cấp kiến thức từ cơ bản đến nâng cao với các môn học :
-Toán 7 Tập 1
-Toán 7 Tập 2
-Vật Lí 7
-Công Nghệ 7
-Ngữ Văn 7 Tập 1
-Ngữ Văn 7 Tập 2
-Lịch Sử 7
-Địa Lí 7
-Giáo Dục Công Dân 7
-Âm Nhạc Và Mĩ Thuật 7
-Tiếng Anh 7
-Sinh Học 7','bo-SACH-giao-khoa-lop-7.jpg' ,2020/12/12 , 12, 5,5)
 
-INSERT INTO SACH VALUES(N'BỘ SÁCH GIÁO KHOA LỚP 12 - SÁCH BÀI HỌC (BỘ 14 CUỐN)', 180000,N'Bộ Sách Giáo Khoa Lớp 12 (Bộ 14 Cuốn):
-Cung cấp các kiến thức từ cơ bản đến nâng cao cho các em học sinh
-Được biên soạn theo quy chuẩn của Bộ Giáo dục và Đào tạo
-Hệ thống kiến thức khoa học, chính xác, được trình bày theo một trình tự logic chặt chẽ
-Bộ sách giáo khoa chuẩn lớp 12 do Bộ Giáo dục quy định đang được nhiều học sinh cũng như các bậc phụ huynh có con em mới bước vào lớp 12 quan tâm.
-
-Bộ Sách Giáo Khoa Lớp 12 (Chuẩn) gồm 14 cuốn:
-Giải Tích 12
-Hình Học 12
-Vật Lí 12
-Hóa Học 12
-Sinh Học 12
-Công Nghệ 12
-Ngữ Văn 12 Tập 1
-Ngữ Văn 12 Tập 2
-Giáo Dục Công Dân
-Tin Học 12
-Tiếng Anh 12
-Lịch Sử 12
-Địa Lí 12
-Giáo Dục Quốc Phòng - An Ninh 12','bo-SACH-giao-khoa-12.jpg' ,2020/12/12 , 12, 5,5)
-INSERT INTO SACH VALUES(N'LUYỆN TẬP TIN HỌC 5 - TẬP 2 (CÙNG IC3 SPARK)',27000 ,N'Bộ sách Luyện tập tin học được biên soạn để phục vụ nhu cầu học Tin Học ở độ tuổi tiểu học nhằm trang bị cho học sinh tiểu học những kĩ năng có bản về sử dụng máy tính để học tập, rèn luyện, vui chơi giải trí được xây dựng một cách có hệ thống phù hợp với trình độ học sinh từ lớp 1 đến lớp 5. Với những phần mềm, công cụ vừa quen thuộc, nhưng cũng vừa hiện đại, bắt kịp với nhịp độ phát triển của công nghệ thông tin toàn cầu.
- 
-
-Quyển sách Luyện Tập Tin Học 5 - Tập 2 (Cùng IC3 Spark) không chỉ là một tài liệu luyện tập của học sinh lớp 2, mà giáo viên có thể sử dụng như giáo trình giảng dạy, phụ huynh học sinh cũng có thể tham khảo cùng học, cùng chơi và quản lí việc sử dụng máy tính của con em mình, giúp cho các em có thể tìm được niềm vui trong học tập. Nội dung quyển sách gồm 3 phần:
- 
-
-Phần 4: Lập trình logo nâng cao
-Phần 5: Làm quen với bảng tính
-Phần 6: Cộng tác hoàn thành sản phẩm công nghệ thông tin','luyen-tap-tin-hoc-5-tap-2-cung-ic3-spark.jpg' ,2020/12/12 , 12, 5,5)
 
 INSERT INTO SACH VALUES (N'BỘ SÁCH GIÁO KHOA LỚP 3 (BỘ 13 CUỐN BÀI HỌC + BÀI TẬP)',115100,N'Bộ sách giáo khoa chuẩn lớp 3 do Bộ Giáo dục quy định đang được nhiều học sinh cũng như các bậc phụ huynh có con em chuẩn bị bước vào lớp 3 quan tâm.
 
